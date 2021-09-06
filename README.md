@@ -1,5 +1,5 @@
 # WebFullStack
-Here we have some projects about web with Frontend and Backend
+Here you can find some web projects
 
 # Draw 
 >  
