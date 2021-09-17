@@ -16,3 +16,7 @@ Here you can find some web projects
 # Project_Paint
 >
   This program is to draw lines with the arrows on canvas with your keyboard. You can draw whatever you want with patient and effort.
+
+# Clock
+>
+  A clock created with canvas and JavaScript.
