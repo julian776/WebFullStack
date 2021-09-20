@@ -20,3 +20,6 @@ Here you can find some web projects
 # Clock
 >
   A clock created with canvas and JavaScript.
+# Calculator
+>
+  A simple calculator to do one operation
